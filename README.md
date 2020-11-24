@@ -1,3 +1,24 @@
-# Python-Final-Project
+# Python Final Project
 
-US House of Representatives Election Data
+## Introduction
+Due to the 
+
+
+
+
+## Libraries
+
+
+## Data Source
+
+
+## Data Cleaning
+
+
+## Data Exploration
+
+
+## Findings
+
+
+## Summary
